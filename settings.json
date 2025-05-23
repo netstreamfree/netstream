@@ -1,0 +1,16 @@
+{
+  "app_config": {
+    "unity_app_id": "5067721",
+    "unity_banner_placement_id": "Banner_Android",
+    "unity_interstitial_placement_id": "Interstitial_Android",
+    "interstitial_ad_interval": 6,
+    "telegram_channel_link": "https://t.me/NetStreamfree",
+    "donate_link": "https://t.me/NetStreamfree",
+    "share_text": "Check out NetStream, a free streaming app!",
+    "share_url": "https://t.me/NetStreamfree",
+    "app_version": "4",
+    "build_number": "2",
+    "developer": "NetStream Team",
+    "privacy_policy": "The app does not collect any user data of any form"
+  }
+}
