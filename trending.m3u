@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Showtime.tv" tvg-logo="https://i.imgur.com/qCtkzqM.jpeg" group-title="Premium Movies",Showtime
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.tv" tvg-logo="https://i.imgur.com/qCtkzqM.jpeg" group-title="Premium Movies",Showtime 2
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.tv" tvg-logo="https://i.imgur.com/zW42ICa.png" group-title="Premium Sports",Fox Sports 1
+http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tv" tvg-logo="https://i.imgur.com/gft6ZNn.png" group-title="Premium Cartoons",Cartoon Network
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 1
+http://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 2
+#EXTINF:-1 tvg-id="SkySportsNews.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports News
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4212.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Football
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1276.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Premier League
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1277.ts
