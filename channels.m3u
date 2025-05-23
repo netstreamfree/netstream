@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeinSports1.tv" tvg-logo="https://i.imgur.com/uWl4OgM.jpeg" group-title="Premium Sports",Bein Sports 1
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="BeinSports2.tv" tvg-logo="https://i.imgur.com/uWl4OgM.jpeg" group-title="Premium Sports",Bein Sports 2
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.tv" tvg-logo="https://i.imgur.com/Fn9rWkD.png" group-title="Premium Cartoons",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.tv" tvg-logo="https://i.imgur.com/NlYfiS9.png" group-title="Premium Cartoons",Disney Jr
+https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.tv" tvg-logo="https://i.imgur.com/NJQZT7z.png" group-title="Premium Sports",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="SYFY.tv" tvg-logo="https://i.imgur.com/arxs88W.png" group-title="Premium Movies",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.tv" tvg-logo="https://i.imgur.com/qCtkzqM.jpeg" group-title="Premium Movies",Showtime
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.tv" tvg-logo="https://i.imgur.com/qCtkzqM.jpeg" group-title="Premium Movies",Showtime 2
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.tv" tvg-logo="https://i.imgur.com/zW42ICa.png" group-title="Premium Sports",Fox Sports 1
+http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.tv" tvg-logo="https://i.imgur.com/tp4Fl07.jpeg" group-title="Premium News",MSNBC
+http://fl3.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="Fx.tv" tvg-logo="https://i.imgur.com/lf0qmiS.png" group-title="Premium Movies",Fx
+http://fl3.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="Fxx.tv" tvg-logo="https://i.imgur.com/gm1pGbW.png" group-title="Premium Movies",Fxx
+http://fl5.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.tv" tvg-logo="https://i.imgur.com/5wZFp57.png" group-title="Premium Entertainment",BET Her
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.tv" tvg-logo="https://i.imgur.com/5wZFp57.png" group-title="Premium Religion",BET Gospel
+http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.tv" tvg-logo="https://i.imgur.com/ZCE0Cbu.jpeg" group-title="Premium Movies",Starz Edge
+http://fl3.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.tv" tvg-logo="https://i.imgur.com/uPJOjm4.png" group-title="Premium Sports",Yes Network
+http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.tv" tvg-logo="https://i.imgur.com/Fx7TNXP.png" group-title="Premium Movies",Oxygen
+http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.tv" tvg-logo="https://i.imgur.com/jCSTMhR.png" group-title="Premium Sports",NFL Network
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.tv" tvg-logo="https://i.imgur.com/W2kWOq4.png" group-title="Premium Entertainment",Big Ten Network
+http://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FYI.tv" tvg-logo="https://i.imgur.com/C6Oe35l.png" group-title="Premium Entertainment",FYI
+http://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.tv" tvg-logo="https://i.imgur.com/dZZJMot.png" group-title="Premium News",C-SPAN
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.tv" tvg-logo="https://i.imgur.com/lqj8xuY.jpeg" group-title="Premium Movies",Crave 2
+http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.tv" tvg-logo="https://i.imgur.com/lqj8xuY.jpeg" group-title="Premium Movies",Crave 3
+http://fl4.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="HBO.tv" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MTV.png" group-title="Premium Movies",HBO
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.tv" tvg-logo="https://i.imgur.com/gXDykNQ.png" group-title="Premium Music",Nick Music
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="FreeForm.tv" tvg-logo="https://i.imgur.com/jEr0fGV.png" group-title="Premium Entertainment",FreeForm
+http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.tv" tvg-logo="https://i.imgur.com/SmoSnWD.png" group-title="Premium Movies",Hallmark
+http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.tv" tvg-logo="https://i.imgur.com/WPwmxYq.png" group-title="Premium Movies",Paramount
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.tv" tvg-logo="https://i.imgur.com/teTBZ01.png" group-title="Premium Documentary",Animal Planet
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="BeinSports.tv" tvg-logo="https://i.imgur.com/uWl4OgM.jpeg" group-title="Premium Sports",Bein Sports
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.tv" tvg-logo="https://i.imgur.com/AZsAn7a.jpeg" group-title="Premium entertainment",Bravo
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tv" tvg-logo="https://i.imgur.com/gft6ZNn.png" group-title="Premium Cartoons",Cartoon Network
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.tv" tvg-logo="https://i.imgur.com/BLpIZYj.png" group-title="Premium Movies",Cinemax
+http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.tv" tvg-logo="https://i.imgur.com/34RCUEa.jpeg" group-title="Premium Movies",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="CBSSports.tv" tvg-logo="https://i.imgur.com/BSZM8pi.jpeg" group-title="Premium Sports",CBS Sports
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.tv" tvg-logo="https://i.imgur.com/ArDKoJz.jpeg" group-title="Premium Entertainment",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.tv" tvg-logo="https://i.imgur.com/Ip6dGUC.jpeg" group-title="Premium Documentary",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamily.tv" tvg-logo="https://i.imgur.com/EHHBbVK.jpeg" group-title="Premium Documentary",Discovery Family
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLife.tv" tvg-logo="https://i.imgur.com/EHHBbVK.jpeg" group-title="Premium Documentary",Discovery Life
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="Eentertainment.tv" tvg-logo="https://i.imgur.com/Jz7IUdY.jpeg" group-title="Premium Entertainment",E entertainment
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.tv" tvg-logo="https://i.imgur.com/D6gOG77.png" group-title="Premium Entertainment",Food Network
+http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.tv" tvg-logo="https://i.imgur.com/qIeXuDk.jpeg" group-title="Premium Documentary",Fuse
+http://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.tv" tvg-logo="https://i.imgur.com/4YdNjlx.png" group-title="Premium Documentary",HG TV
+http://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.tv" tvg-logo="https://i.imgur.com/NYaErze.png" group-title="Premium Sports",MLB Network
+http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.tv" tvg-logo="https://i.imgur.com/VYtc16n.jpeg" group-title="Premium Documentary",National Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWilld.tv" tvg-logo="https://i.imgur.com/VYtc16n.jpeg" group-title="Premium Documentary",National Geographic Willd
+http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.tv" tvg-logo="https://i.imgur.com/6ceLK3H.jpeg" group-title="Premium Cartoons",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="OWN.tv" tvg-logo="https://i.imgur.com/fCfjx3N.jpeg" group-title="Premium Entertainment",OWN
+http://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="Sundance.tv" tvg-logo="https://i.imgur.com/b5b6uq5.png" group-title="Premium Entertainment",Sundance
+http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 1
+http://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 2
+http://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 3
+http://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 4
+http://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.tv" tvg-logo="https://i.imgur.com/waeTuUF.png" group-title="TSN Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TruTV.tv" tvg-logo="https://i.imgur.com/EX7ETt5.png" group-title="Premium entertainment",Tru TV
+http://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.tv" tvg-logo="https://i.imgur.com/0YElMjX.png" group-title="Premium entertainment",TV One
+http://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="VH1.tv" tvg-logo="https://i.imgur.com/3BUExFh.jpeg" group-title="Premium entertainment",VH1
+http://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="WETv.tv" tvg-logo="https://i.imgur.com/79hiLYI.png" group-title="Premium entertainment",WE Tv
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports News
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4212.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Main Event
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4204.ts
+#EXTINF:-1 tvg-id="SkySportsAction.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Action
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1290.ts
+#EXTINF:-1 tvg-id="SkySportsF1.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports F1
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4203.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Racing
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4205.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Golf
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4211.ts
+#EXTINF:-1 tvg-id="SkySportsMix.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Mix
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4323.ts
+#EXTINF:-1 tvg-id="SkySportsTennis.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Tennis
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4335.ts
+#EXTINF:-1 tvg-id="SkySportsArena.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Arena
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4957.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Football
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1276.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Premier League
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1277.ts
