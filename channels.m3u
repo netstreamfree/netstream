@@ -115,25 +115,3 @@ http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 http://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="WETv.tv" tvg-logo="https://i.imgur.com/79hiLYI.png" group-title="Premium entertainment",WE Tv
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports News
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4212.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Main Event
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4204.ts
-#EXTINF:-1 tvg-id="SkySportsAction.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Action
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1290.ts
-#EXTINF:-1 tvg-id="SkySportsF1.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports F1
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4203.ts
-#EXTINF:-1 tvg-id="SkySportsRacing.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Racing
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4205.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Golf
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4211.ts
-#EXTINF:-1 tvg-id="SkySportsMix.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Mix
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4323.ts
-#EXTINF:-1 tvg-id="SkySportsTennis.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Tennis
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4335.ts
-#EXTINF:-1 tvg-id="SkySportsArena.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Arena
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/4957.ts
-#EXTINF:-1 tvg-id="SkySportsFootball.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Football
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1276.ts
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.tv" tvg-logo="https://i.imgur.com/xVoxC01.jpeg" group-title="Sky Sports",Sky Sports Premier League
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1277.ts
