@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Channel60.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Grandstand
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000047.ts
 #EXTINF:-1 tvg-id="BeinSports1.tv" tvg-logo="https://i.imgur.com/uWl4OgM.jpeg" group-title="Premium Sports",Bein Sports 1
 https://stream.sainaertebat.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="BeinSports2.tv" tvg-logo="https://i.imgur.com/uWl4OgM.jpeg" group-title="Premium Sports",Bein Sports 2
