@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Channel74.tv" tvg-logo="https://i.ibb.co/ZRwRKLbP/download-1.jpg" group-title="African Entertainment",AM Family
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000057.ts
+#EXTINF:-1 tvg-id="Channel73.tv" tvg-logo="https://i.ibb.co/LdCxbzpw/download-removebg-preview.png" group-title="Premium Movies",Mnet Movies 1
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000082.ts
+#EXTINF:-1 tvg-id="Channel72.tv" tvg-logo="https://i.ibb.co/LdCxbzpw/download-removebg-preview.png" group-title="Premium Movies",Mnet Movies 3
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000083.ts
+#EXTINF:-1 tvg-id="Channel71.tv" tvg-logo="https://i.ibb.co/LdCxbzpw/download-removebg-preview.png" group-title="Premium Movies",Mnet Movies 4
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000084.ts
+#EXTINF:-1 tvg-id="Channel70.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Variety 1
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1001224.ts
+#EXTINF:-1 tvg-id="Channel69.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Variety 2
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1001225.ts
+#EXTINF:-1 tvg-id="Channel68.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Variety 3
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1001226.ts
+#EXTINF:-1 tvg-id="Channel67.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Variety 4
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1001227.ts
+#EXTINF:-1 tvg-id="Channel66.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Rugby
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000110.ts
+#EXTINF:-1 tvg-id="Channel65.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Laliga
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000102.ts
+#EXTINF:-1 tvg-id="Channel64.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Golf
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000052.ts
+#EXTINF:-1 tvg-id="Channel63.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Football
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000101.ts
+#EXTINF:-1 tvg-id="Channel62.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Premier League
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000049.ts
+#EXTINF:-1 tvg-id="Channel61.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",PSL
+http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000100.ts
 #EXTINF:-1 tvg-id="Channel60.tv" tvg-logo="https://i.ibb.co/VWwnNV8s/supersports.png" group-title="Supersports",Grandstand
 http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000047.ts
 #EXTINF:-1 tvg-id="BeinSports1.tv" tvg-logo="https://i.imgur.com/uWl4OgM.jpeg" group-title="Premium Sports",Bein Sports 1
