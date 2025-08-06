@@ -144,5 +144,5 @@ http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="VH1.tv" tvg-logo="https://i.imgur.com/3BUExFh.jpeg" group-title="Premium entertainment",VH1
 http://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="WETv.tv" tvg-logo="https://i.imgur.com/79hiLYI.png" group-title="Premium entertainment",WE Tv
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1754503727-0-0-2de70bd8cba70f1d850af9ae2d9a77be
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
