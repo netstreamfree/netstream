@@ -74,7 +74,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
-http://23.237.104.106:8080/USA_FOX/index.m3u8
+https://api.bobtvafrica.site/v1/cinesu/movie/299534/0/0/master.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
 http://23.237.104.106:8080/USA_FREEFORM/index.m3u8
